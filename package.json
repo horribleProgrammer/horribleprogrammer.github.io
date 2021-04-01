@@ -1,0 +1,24 @@
+{
+  "name": "horribleprogrammer.github.io",
+  "version": "1.0.0",
+  "description": "[![Coffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://buymeacoffee.com/horribleProgram) ![GPLv3 license](https://img.shields.io/badge/HorribleLicense-HL-blue)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horribleProgrammer/horribleprogrammer.github.io.git"
+  },
+  "keywords": [],
+  "author": "HorribleProgram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/horribleProgrammer/horribleprogrammer.github.io/issues"
+  },
+  "homepage": "https://github.com/horribleProgrammer/horribleprogrammer.github.io#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
